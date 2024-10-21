@@ -23,7 +23,7 @@ Bem-vindo ao **Jogo da Memória**! Este é um simples e divertido jogo desenvolv
 1. Clone este repositório:
 
    ```bash
-   git clone https:
+   git clone [https:](https://github.com/VBDOL/Jogo-da-memoria)
 
    Navegue até o diretório do projeto:
 
